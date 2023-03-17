@@ -1,4 +1,5 @@
 # <p align="center"> leagueReap3r </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/62818208/225785366-d6e16156-7dc5-4ef5-963f-d905bcae947d.png" width=256></p>
 <p align="center">Helpful League tool to report a player just with his summoner name</p>
 
 ## How it works
