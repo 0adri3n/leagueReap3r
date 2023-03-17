@@ -7,7 +7,7 @@ leagueReap3r use the LCU API to perform report request.
 
 <ins>__Note :__<ins>
 
-__If ur interested in LCU API, don't hesitate to try my software <a href="https://github.com/akira-trinity/ratRequ3ster">ratRequ3ster</a> to interact with the API.__
+__If ur interested in LCU API, don't hesitate to try my software <a target="_blank" href="https://github.com/akira-trinity/ratRequ3ster">ratRequ3ster</a> to interact with the API.__
 
 ### Here's a schema to show how it technically works :
 
