@@ -32,7 +32,7 @@ Firstly, configure League Path to make leagueReap3r operational.
 
 When ur all set, enter a summoner name and press the button :)
 
-Actual estimated cooldown for a report in 1 hour !
+U can only report a player one time :(
 
 
 ![image](https://user-images.githubusercontent.com/62818208/225779659-e4607f3c-e496-48e1-ad4f-84db6d1311c5.png)
